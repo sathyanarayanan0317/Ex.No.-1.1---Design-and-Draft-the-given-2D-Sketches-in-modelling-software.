@@ -1,5 +1,6 @@
 # Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
-
+Name : Sathyanarayanan M
+Register number: 212224040300
 ## AIM
 
 To sketch the given drawing with dimensions using fusion 360 tool.
@@ -42,8 +43,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
-![Screenshot 2024-11-17 131122](https://github.com/user-attachments/assets/2c25501f-ed9b-49de-b895-c679b2ada632)
-
+<img width="1187" height="827" alt="Screenshot 2026-08-01 085116" src="https://github.com/user-attachments/assets/34782256-08b9-4800-a079-d0a87ad825fb" />
 
 ## RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
